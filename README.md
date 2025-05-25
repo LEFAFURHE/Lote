@@ -1,0 +1,1 @@
+Lote Georreferenciado por el Ing Fernando Bedoya, Digitalizado por el Ingeniero Leonardo Favio Fuentes Rhénals, detallando área del predio, Distancias de cada vertice y Curvas de Nivel a un metro de distancia
